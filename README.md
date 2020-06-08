@@ -1,2 +1,2 @@
-# Angry-Birds
-Simple angry birds game without slingshot.
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
